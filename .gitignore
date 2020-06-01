@@ -1,6 +1,5 @@
 conf.d/*
 vhost.d/*
-*.env
 !*.save.env
 certs/*
 configs/*
